@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Lobster&family=Poppins:wght@400;600;700&display=swap');
 .carousel-item{
     
     max-height: 55rem;
@@ -16,9 +17,24 @@
     
     z-index: 2;
 }
-.register-bg{
-    background-color: #289BDE;
-}
+
 .btn_font{
     font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #fff;
+
 }
+.p-font{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.p-font-1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.p-font-2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
